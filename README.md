@@ -7,7 +7,7 @@ A simpe command-line Snake Water Gun Game built using Python. This project is ba
 - Input validation
 - Beginner-Friendly python project
 ## 🎮Game Rules
-### | Player Choice  |  Computer Choice  |      Result    |
+    | Player Choice  |  Computer Choice  |      Result    |
     |----------------|-------------------|----------------|
     | Snake          |      Water        |     Snake Wins |
     | Water          |      Gun          |     Water Wins |
