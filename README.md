@@ -16,4 +16,18 @@ A simpe command-line Snake Water Gun Game built using Python. This project is ba
 ## 📂Project Structure
     |-README.md
     |-swg_game.py
-    |-
+    |-Image1.png
+    |-ScoreBoard.png
+## 🛠️Technologies Used
+- Python 
+- Random Module
+- pyttsx3 Module
+## 📚Concept Used
+- Variables
+- Conditional Statements
+- Loops
+- User Input Handling
+- Random Number Generation
+- pyttsx3
+## 👩🏻‍💻Author
+  - Satyabhama Pani
